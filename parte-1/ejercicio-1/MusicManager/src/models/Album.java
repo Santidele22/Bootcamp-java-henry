@@ -1,18 +1,30 @@
 package models;
 
 public class Album {
-    private String name;
-    private int date;
-    private Artist artist = new Artist();
+    private String albumName;
+    private int year;
+    private Artist artist;
 
-    Album(String name, int date, Artist artist) {
-        this.name = name;
-        this.date = date;
+    Album(String albumName, int year, Artist artist) {
+        this.albumName = albumName;
+        this.year = year;
         this.artist = artist;
     }
 
     void showInfo() {
-        System.out.println("El Artista " + this.artist + " Saco el albúm  " + this.name
-                + " que salio en el año " + this.date);
+        System.out.println("El Artista " + this.artist + " Saco el albúm  " + this.albumName
+                + " que salio en el año " + this.year);
     }
+
+    // list<Album>
+    void getAlbumByArtist(Artist artist) {
+
+    }
+
+    void getAlbumByYear(int year) {
+    }
+
+    void getAlbumByName(String name) {
+    }
+
 }
