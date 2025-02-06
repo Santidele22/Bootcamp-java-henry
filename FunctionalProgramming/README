@@ -1,0 +1,41 @@
+Para esta tarea, vamos a crear una aplicación para realizar operaciones sobre una lista de objetos Persona.
+
+Cada objeto Persona debe tener las siguientes propiedades: nombre, edad y hobby, todas de tipo String.
+Utiliza la Stream API de Java y realiza las siguientes operaciones sobre la lista de personas.
+
+HW 1
+
+Filtrar las personas
+-Filtra las personas que sean mayores de 18 años y cuyos hobbies incluyan la palabra "programar".
+-Utiliza la operación filter para realizar este filtrado.
+
+HW 2
+
+Obtener una lista
+-Obtén una lista con los nombres de todas las personas
+-Utiliza la operación map para mapear cada objeto Persona a su nombre.
+
+HW 3
+
+Limitar la lista
+
+-Limita la lista de personas a un máximo de 5 personas.
+-Utiliza la operación limit para establecer este límite.
+
+HW 4
+
+Imprimir los nombres
+-Imprime los nombres de todas las personas en la lista utilizando la operación forEach.
+
+
+HW 5
+Crear una clase principal
+
+-Crea una clase principal llamada "PersonaManager" donde implementarás el código necesario para realizar estas operaciones.
+En el método main, crea una lista de objetos Persona con diferentes nombres, edades y hobbies. Puedes utilizar el constructor de la clase Persona para crear cada objeto.
+-Utiliza los métodos y operaciones de la Stream API para realizar las operaciones mencionadas anteriormente.
+
+HW 6
+
+Ejecutar y verificar
+- Ejecuta la aplicación y verifica que las operaciones se realicen correctamente, obteniendo los resultados esperados.
