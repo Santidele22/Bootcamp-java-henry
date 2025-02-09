@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AEgirFinances/AEgirFinances.iml" filepath="$PROJECT_DIR$/AEgirFinances/AEgirFinances.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp-java-henry.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp-java-henry.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FINANCES-APP/FINANCES-APP.iml" filepath="$PROJECT_DIR$/FINANCES-APP/FINANCES-APP.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" filepath="$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface-collections/Interface-collections.iml" filepath="$PROJECT_DIR$/Interface-collections/Interface-collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/parte-1/ejercicio-1/ejercicio-1.iml" filepath="$PROJECT_DIR$/parte-1/ejercicio-1/ejercicio-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/parte-1/ejercicio-2/ejercicio-2.iml" filepath="$PROJECT_DIR$/parte-1/ejercicio-2/ejercicio-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/interfaces-collections/interfaces-collections.iml" filepath="$PROJECT_DIR$/interfaces-collections/interfaces-collections.iml" />
     </modules>
   </component>
 </project>

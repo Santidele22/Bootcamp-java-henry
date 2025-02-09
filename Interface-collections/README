@@ -1,0 +1,35 @@
+Usaremos una interfaz funcional para realizar operaciones con colecciones y mapas,
+ y relacionaremos la manipulación de listas con el ejemplo de lámparas.
+
+Este ejercicio debe servir como una guía paso a paso para implementar una interfaz,
+manipular colecciones y utilizar mapas en una aplicación Java
+
+
+HW 1
+
+Crear e Implementar una Interfaz
+
+Primero, vamos a definir una interfaz llamada Operable con dos métodos: turnOn y turnOff.
+Luego, crearemos una clase Lamp que implemente esta interfaz.
+
+HW 2
+
+Manipulación de Colecciones
+
+En este paso, vamos a crear una lista de objetos Lamp y añadir algunas instancias.
+Encenderemos algunas lámparas, ordenaremos la lista por nombre y buscaremos una lámpara específica por su nombre
+
+HW 3
+
+Uso de Mapas
+
+Finalmente, vamos a crear un "HashMap" para almacenar nombres de productos y sus precios.
+Luego, imprimiremos todos los productos con sus respectivos precios.
+
+HW 4
+
+Integrando todo en el Main
+
+Ahora, combinemos todos los pasos anteriores en un solo programa que implementa la interfaz,
+manipula colecciones de objetos "Lamp" y usa mapas para manejar productos y precios.
+Todas estas operaciones podemos realizarlas en el método Main.
